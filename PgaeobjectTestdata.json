@@ -1,0 +1,13 @@
+    [ 
+      {
+    "email" : "james.bond65@yopmail.com",
+    "password" : "Test@223",
+    "productname" : "ZARA COAT 3"
+    },
+        
+    {
+    "email" : "james.bond45@yopmail.com",
+    "password" : "Test@123",
+    "productname" : "iphone 13 pro"
+    }
+]
